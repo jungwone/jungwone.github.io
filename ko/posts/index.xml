@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on 김중원 블로그</title>
-    <link>http://example.org/ko/posts/</link>
+    <link>https://jungwone.github.io/ko/posts/</link>
     <description>Recent content in Posts on 김중원 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>prsjb77@gmail.com (Jungwon Kim)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/ko/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jungwone.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Jungwon&#39;s blog</title>
-    <link>http://example.org/en/</link>
+    <link>https://jungwone.github.io/en/</link>
     <description>Recent content on Jungwon&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 31 Oct 2019 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jungwone.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     
