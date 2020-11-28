@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://jungwone.github.io/ko/</loc>
-    <lastmod>2020-11-28T15:49:36+09:00</lastmod>
+    <lastmod>2020-11-28T17:43:52+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,36 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://jungwone.github.io/ko/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jungwone.github.io/ko/posts/first-project-2/</loc>
+    <lastmod>2020-11-28T17:43:52+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jungwone.github.io/en/posts/first-project-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jungwone.github.io/ko/posts/first-project-2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jungwone.github.io/ko/posts/</loc>
+    <lastmod>2020-11-28T17:43:52+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jungwone.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jungwone.github.io/ko/posts/"
                 />
   </url>
   
@@ -44,21 +74,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://jungwone.github.io/ko/tags/postgresql/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://jungwone.github.io/ko/posts/</loc>
-    <lastmod>2020-11-28T15:49:36+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jungwone.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jungwone.github.io/ko/posts/"
                 />
   </url>
   
