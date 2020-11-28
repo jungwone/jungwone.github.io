@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>setup on 김중원 블로그</title>
+    <link>https://jungwone.github.io/ko/categories/setup/</link>
+    <description>Recent content in setup on 김중원 블로그</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>prsjb77@gmail.com (Jungwon Kim)</managingEditor>
+    <webMaster>prsjb77@gmail.com (Jungwon Kim)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 28 Nov 2020 15:49:36 +0900</lastBuildDate>
+    
+        <atom:link href="https://jungwone.github.io/ko/categories/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Project setup with prisma2 and postgresql - Part 1</title>
+        <link>https://jungwone.github.io/ko/posts/first-project-1/</link>
+        <pubDate>Sat, 28 Nov 2020 15:49:36 +0900</pubDate>
+        <author>prsjb77@gmail.com (Jungwon Kim)</author>
+        <atom:modified>Sat, 28 Nov 2020 15:49:36 +0900</atom:modified>
+        <guid>https://jungwone.github.io/ko/posts/first-project-1/</guid>
+        <description>Intro 프로젝트 환경을 설정하는 것은 내가 두려워하고 피하고 싶어하는 일 중 하나이다. 하지만 모든 프로젝트의 시작은 셋업에서부터 시작하기 때문에 😂😂 그런 두려움을 깨</description>
+        
+        <dc:creator>Jungwon Kim</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>prisma2</category>
+            
+          
+            
+              <category>postgresql</category>
+            
+          
+        
+        
+          
+            
+              <category>setup</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
