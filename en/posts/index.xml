@@ -14,7 +14,7 @@
     <managingEditor>prsjb77@gmail.com (Jungwon Kim)</managingEditor>
     <webMaster>prsjb77@gmail.com (Jungwon Kim)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 28 Nov 2020 17:43:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 18:40:46 +0900</lastBuildDate>
     
         <atom:link href="https://jungwone.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,25 +23,33 @@
 
       
       <item>
-        <title>First Project 2</title>
+        <title>Project setup with prisma2 and postgresql - Part 2</title>
         <link>https://jungwone.github.io/en/posts/first-project-2/</link>
-        <pubDate>Sat, 28 Nov 2020 17:43:46 +0900</pubDate>
+        <pubDate>Sat, 28 Nov 2020 18:40:46 +0900</pubDate>
         <author>prsjb77@gmail.com (Jungwon Kim)</author>
-        <atom:modified>Sat, 28 Nov 2020 17:43:46 +0900</atom:modified>
+        <atom:modified>Sat, 28 Nov 2020 18:40:46 +0900</atom:modified>
         <guid>https://jungwone.github.io/en/posts/first-project-2/</guid>
-        <description></description>
+        <description>Prisma 자, 우선 Prisma의 공식 사이트는 여기다. 살펴보니 Prisma1에서 지원하는 admin console이 prisma2에서는 아직 지원이 안되는 모양이다</description>
         
         <dc:creator>Jungwon Kim</dc:creator>
-        
+        <media:content url="https://jungwone.github.iohttps://res.cloudinary.com/djc1ez16q/image/upload/v1606556832/blog/posts/first_post/cookie-the-pom-gySMaocSdqs-unsplash_s1uin4.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
           
             
+              <category>prisma2</category>
+            
+          
+            
+              <category>postgresql</category>
+            
           
         
         
           
+            
+              <category>setup</category>
             
           
         
