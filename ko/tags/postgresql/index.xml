@@ -6,21 +6,59 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>postgresql on 김중원 블로그</title>
+    <title>postgresql on 주머니세상</title>
     <link>https://jungwone.github.io/ko/tags/postgresql/</link>
-    <description>Recent content in postgresql on 김중원 블로그</description>
+    <description>Recent content in postgresql on 주머니세상</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>prsjb77@gmail.com (Jungwon Kim)</managingEditor>
     <webMaster>prsjb77@gmail.com (Jungwon Kim)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 28 Nov 2020 15:49:36 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 18:40:46 +0900</lastBuildDate>
     
         <atom:link href="https://jungwone.github.io/ko/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Project setup with prisma2 and postgresql - Part 2</title>
+        <link>https://jungwone.github.io/ko/posts/first-project-2/</link>
+        <pubDate>Sat, 28 Nov 2020 18:40:46 +0900</pubDate>
+        <author>prsjb77@gmail.com (Jungwon Kim)</author>
+        <atom:modified>Sat, 28 Nov 2020 18:40:46 +0900</atom:modified>
+        <guid>https://jungwone.github.io/ko/posts/first-project-2/</guid>
+        <description>Prisma 자, 우선 Prisma의 공식 사이트는 여기다. 살펴보니 Prisma1에서 지원하는 admin console이 prisma2에서는 아직 지원이 안되는 모양이다</description>
+        
+        <dc:creator>Jungwon Kim</dc:creator>
+        <media:content url="https://jungwone.github.iohttps://res.cloudinary.com/djc1ez16q/image/upload/v1606556832/blog/posts/first_post/cookie-the-pom-gySMaocSdqs-unsplash_s1uin4.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>prisma2</category>
+            
+          
+            
+              <category>postgresql</category>
+            
+          
+        
+        
+          
+            
+              <category>setup</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Project setup with prisma2 and postgresql - Part 1</title>

@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>index on 김중원 블로그</title>
+    <title>index on 주머니세상</title>
     <link>https://jungwone.github.io/ko/tags/index/</link>
-    <description>Recent content in index on 김중원 블로그</description>
+    <description>Recent content in index on 주머니세상</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>prsjb77@gmail.com (Jungwon Kim)</managingEditor>
@@ -24,7 +24,7 @@
       <item>
         <title>Posts</title>
         <link>https://jungwone.github.io/ko/posts/</link>
-        <pubDate>Sat, 28 Nov 2020 17:43:52 +0900</pubDate>
+        <pubDate>Sat, 28 Nov 2020 21:07:32 +0900</pubDate>
         <author>prsjb77@gmail.com (Jungwon Kim)</author>
         
         <guid>https://jungwone.github.io/ko/posts/</guid>

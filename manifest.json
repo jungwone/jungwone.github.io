@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "Jungwon's blog",
-  "short_name": "Jungwon's blog",
+  "name": "Junnie blog",
+  "short_name": "Junnie blog",
   "version": "1.0.0",
   "default_locale": "en",
-  "description": "Hugo blog theme with rich features",
-  "start_url": "https://themes.gohugo.io/theme/hugo-theme-zzo/",
+  "description": "Junnie blog",
+  "start_url": "https://jungwone.github.io/",
   "icons": [
     {
       "src": "favicon/android-icon-36x36.png",
