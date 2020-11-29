@@ -14,7 +14,8 @@
     <managingEditor>prsjb77@gmail.com (Jungwon Kim)</managingEditor>
     <webMaster>prsjb77@gmail.com (Jungwon Kim)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 28 Nov 2020 18:40:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 21:07:28 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://jungwone.github.io/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +26,7 @@
       <item>
         <title>postgresql</title>
         <link>https://jungwone.github.io/ko/tags/postgresql/</link>
-        <pubDate>Sat, 28 Nov 2020 18:40:46 +0900</pubDate>
+        <pubDate>Sat, 28 Nov 2020 21:07:28 +0900</pubDate>
         <author>prsjb77@gmail.com (Jungwon Kim)</author>
         
         <guid>https://jungwone.github.io/ko/tags/postgresql/</guid>
@@ -43,7 +44,7 @@
       <item>
         <title>prisma2</title>
         <link>https://jungwone.github.io/ko/tags/prisma2/</link>
-        <pubDate>Sat, 28 Nov 2020 18:40:46 +0900</pubDate>
+        <pubDate>Sat, 28 Nov 2020 21:07:28 +0900</pubDate>
         <author>prsjb77@gmail.com (Jungwon Kim)</author>
         
         <guid>https://jungwone.github.io/ko/tags/prisma2/</guid>

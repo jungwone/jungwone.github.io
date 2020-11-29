@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://jungwone.github.io/ko/</loc>
-    <lastmod>2020-11-28T21:07:32+09:00</lastmod>
+    <lastmod>2020-11-28T21:07:28+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,38 +18,8 @@
   </url>
   
   <url>
-    <loc>https://jungwone.github.io/ko/posts/first-project-3/</loc>
-    <lastmod>2020-11-28T21:07:32+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jungwone.github.io/en/posts/first-project-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jungwone.github.io/ko/posts/first-project-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://jungwone.github.io/ko/posts/</loc>
-    <lastmod>2020-11-28T21:07:32+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jungwone.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jungwone.github.io/ko/posts/"
-                />
-  </url>
-  
-  <url>
     <loc>https://jungwone.github.io/ko/categories/</loc>
-    <lastmod>2020-11-28T18:40:46+09:00</lastmod>
+    <lastmod>2020-11-28T21:07:28+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +34,7 @@
   
   <url>
     <loc>https://jungwone.github.io/ko/tags/postgresql/</loc>
-    <lastmod>2020-11-28T18:40:46+09:00</lastmod>
+    <lastmod>2020-11-28T21:07:28+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,8 +48,23 @@
   </url>
   
   <url>
+    <loc>https://jungwone.github.io/ko/posts/</loc>
+    <lastmod>2020-11-28T21:07:28+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jungwone.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jungwone.github.io/ko/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://jungwone.github.io/ko/tags/prisma2/</loc>
-    <lastmod>2020-11-28T18:40:46+09:00</lastmod>
+    <lastmod>2020-11-28T21:07:28+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -89,6 +74,51 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://jungwone.github.io/ko/tags/prisma2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jungwone.github.io/ko/posts/first-project-3/</loc>
+    <lastmod>2020-11-28T21:07:28+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jungwone.github.io/en/posts/first-project-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jungwone.github.io/ko/posts/first-project-3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jungwone.github.io/ko/categories/setup/</loc>
+    <lastmod>2020-11-28T21:07:28+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jungwone.github.io/en/categories/setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jungwone.github.io/ko/categories/setup/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jungwone.github.io/ko/tags/</loc>
+    <lastmod>2020-11-28T21:07:28+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jungwone.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://jungwone.github.io/ko/tags/"
                 />
   </url>
   
@@ -104,36 +134,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://jungwone.github.io/ko/posts/first-project-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://jungwone.github.io/ko/categories/setup/</loc>
-    <lastmod>2020-11-28T18:40:46+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jungwone.github.io/en/categories/setup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jungwone.github.io/ko/categories/setup/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://jungwone.github.io/ko/tags/</loc>
-    <lastmod>2020-11-28T18:40:46+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jungwone.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://jungwone.github.io/ko/tags/"
                 />
   </url>
   

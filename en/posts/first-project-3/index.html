@@ -1389,7 +1389,7 @@
     "datePublished": "2020-11-28T21:07:28+09:00",
     "dateModified": "2020-11-28T21:07:28+09:00",
     "url" : "https://jungwone.github.io/en/posts/first-project-3/",
-    "description": "Prisma Client prisma를 이용해서 CRUD를 하려면 prisma client가 필요하다. npm install @prisma/client 그 후에 server.js 파일에 아래와 같이 입력 후 실행해보겠다. 1 2 3 4 5 6 7 8 9 10 11",
+    "description": "Prisma Client prisma를 이용해서 CRUD를 하려면 prisma client가 필요하다. npm install @prisma/client 그 후에 server.js 파일에 아래와 같이 입력 후 실행한다. 1 2 3 4 5 6 7 8 9 10 11 12 13",
     "keywords": ["prisma2","postgresql"],
     "image" : "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1\u0026ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D\u0026auto=format\u0026fit=crop\u0026w=1050\u0026q=80",
     "mainEntityOfPage": {
@@ -1526,6 +1526,18 @@
       
 
       
+        <li class="navbarm__menu--item active">
+          <a href="https://jungwone.github.io/en/posts">Post</a>
+        </li>
+      
+      
+    
+      
+      
+      
+      
+
+      
         <li class="navbarm__menu--item ">
           <a href="https://jungwone.github.io/en/archive">Archive</a>
         </li>
@@ -1551,18 +1563,6 @@
           </li>
         
 
-      
-      
-    
-      
-      
-      
-      
-
-      
-        <li class="navbarm__menu--item active">
-          <a href="https://jungwone.github.io/en/posts">Posts</a>
-        </li>
       
       
     
@@ -1640,6 +1640,14 @@
   
   
   
+  <a href="https://jungwone.github.io/en/posts" class="navbar__menu-item navbar__slide-down active" dir="ltr" data-ani="true">Post</a>
+  
+  
+  
+  
+  
+  
+  
   <a href="https://jungwone.github.io/en/archive" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">Archive</a>
   
   
@@ -1660,14 +1668,6 @@
       
     </div>
   </div>
-  
-  
-  
-  
-  
-  
-  
-  <a href="https://jungwone.github.io/en/posts" class="navbar__menu-item navbar__slide-down active" dir="ltr" data-ani="true">Posts</a>
   
   
 </div>
@@ -1764,7 +1764,7 @@
       <h2 id="prisma-client">Prisma Client</h2>
 <p><code>prisma</code>를 이용해서 CRUD를 하려면 <code>prisma client</code>가 필요하다.<br />
 <div class="alert alert-success" role="alert" data-dir="ltr"><strong>npm install @prisma/client</strong></div></p>
-<p>그 후에 server.js 파일에 아래와 같이 입력 후 실행해보겠다.</p>
+<p>그 후에 server.js 파일에 아래와 같이 입력 후 실행한다.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -1801,33 +1801,32 @@
 <span class="nx">createUser</span><span class="p">();</span>
 </code></pre></td></tr></table>
 </div>
-</div><p>자, 코드가 성공적으로 실행이 됐다면 <code>prisma studio</code>를 이용해서 나의 데이터를 확인해보겠다.</p>
+</div><p>코드가 성공적으로 실행이 됐다면 <code>prisma studio</code>를 이용해서 나의 데이터를 확인할 수 있다. 그 전에 Prisma Studio가 무엇인지 알아보자.</p>
 <h2 id="what-is-prisma-studio-">What is Prisma Studio ?</h2>
 <blockquote>
 <p>Prisma Studio is a visual editor for the data in your database.</p>
 </blockquote>
-<p>굳이 해석하자면 우리의 데이터베이스에 있는 데이터를 보여주는 가상 에디터라는 말이다. 홈페이지에 <code>prisma studio</code>를 실행하는 두 가지 방법이 있다고 나온다.</p>
+<p>굳이 해석하자면 우리의 데이터베이스에 있는 데이터를 보여주는 가상 에디터라는 말이다. <code>prisma studio</code>를 실행하는 방법에는 두 가지가 있다.</p>
 <ul>
 <li><strong>npx prisma studio</strong> in your terminal</li>
 <li>Install the <code>macOS</code> app from the installers which you can find here. Currently, only <code>macOS</code> is supported &hellip; 이하 생략</li>
 </ul>
 <p>Install해서 사용할 수 있는건 현재 <code>macOS</code>밖에 지원이 안된단다.. 🙄<br />
 나는 어쩔 수 없이 <code>npx prisma studio</code>를 이용해서 <code>prisma studio</code>를 실행해보겠다.(그래도 실행할 수 있는게 어디인가)</p>
-<p>서버의 콘솔을 보면 다음과 같이 기록되었다.<br />
-<img src="https://res.cloudinary.com/djc1ez16q/image/upload/v1606567864/blog/posts/first_post/console_data_aflin8.png" alt="console log" /></p>
-<p>내가 만든 user가 console.log()를 통해서 잘 출력되고 있다.</p>
+<p><img src="https://res.cloudinary.com/djc1ez16q/image/upload/v1606567864/blog/posts/first_post/console_data_aflin8.png" alt="console log" /></p>
+<p>내가 만든 user가 잘 출력되고 있다.</p>
 <p><code>prisma studio</code>에서도 확인해보자.<br />
 <img src="https://res.cloudinary.com/djc1ez16q/image/upload/v1606567859/blog/posts/first_post/Prisma_studio_ym1kbj.png" alt="prisma studio" /></p>
-<p><code>prisma studio</code> 에서도 확인되었다!</p>
+<p><code>prisma studio</code> 에서도 내가 만든 데이터들이 잘 보인다.</p>
 <h2 id="workflow">Workflow</h2>
-<p>우리가 <code>prisma-shema</code>를 변경하거나<br />
-또는 <code>database</code>에서 무언가를 바꾸었다면 반드시 <code>prisma generate</code> 해주어야 한다.</p>
+<p>우리가 <code>prisma-schema</code>를 변경하거나<br />
+<code>database</code>에서 무언가를 바꾸었다면 반드시 <code>prisma generate</code> 해주어야 한다.<br />
+<code>generate</code>를 통해 <code>prisma client</code>에서 최신 모델을 사용할 수 있기 때문이다.</p>
 <div class="alert alert-success" role="alert" data-dir="ltr"><strong>npx prisma generate</strong></div>
-<p><code>generate</code> 해줌으로써 <code>prisma client</code>에서 최신 모델을 사용할 수 있다.<br />
-자세한건 아래 사진을 참고하면 된다. prisma 홈페이지에 나와있는 내용이다.</p>
+<p>자세한건 아래 사진을 참고하면 된다. prisma 홈페이지에서도 확인할 수 있다.</p>
 <ul>
 <li>
-<p>데이터베이스에서 변경할 경우<br />
+<p>데이터베이스에서 변경할 경우 (쿼리문 등을 이용)<br />
 <img src="https://imgur.com/ToNkpb2.png" alt="generate1" /></p>
 </li>
 <li>
@@ -1836,7 +1835,7 @@
 </li>
 </ul>
 <hr />
-<p>여기까지 postgreSQL과 prisma2를 이용한 간단한 프로젝트 셋업이였다.</p>
+<p>여기까지 postgreSQL과 prisma2를 이용해서 간단한 프로젝트 셋업과 테스트를 진행해보았다.</p>
 
     </article>
     

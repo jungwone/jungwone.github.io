@@ -14,13 +14,52 @@
     <managingEditor>prsjb77@gmail.com (Jungwon Kim)</managingEditor>
     <webMaster>prsjb77@gmail.com (Jungwon Kim)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 28 Nov 2020 18:40:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 21:07:28 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://jungwone.github.io/ko/categories/setup/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Project setup with prisma2 and postgresql - Part 3</title>
+        <link>https://jungwone.github.io/ko/posts/first-project-3/</link>
+        <pubDate>Sat, 28 Nov 2020 21:07:28 +0900</pubDate>
+        <author>prsjb77@gmail.com (Jungwon Kim)</author>
+        <atom:modified>Sat, 28 Nov 2020 21:07:28 +0900</atom:modified>
+        <guid>https://jungwone.github.io/ko/posts/first-project-3/</guid>
+        <description>Prisma Client prisma를 이용해서 CRUD를 하려면 prisma client가 필요하다. npm install @prisma/client 그 후에 server.js 파일에 아래와 같이 입력 후 실행한다. 1 2 3 4 5 6 7 8 9 10 11 12 13</description>
+        
+        <dc:creator>Jungwon Kim</dc:creator>
+        <media:content url="https://jungwone.github.iohttps://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&amp;ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>prisma2</category>
+            
+          
+            
+              <category>postgresql</category>
+            
+          
+        
+        
+          
+            
+              <category>setup</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Project setup with prisma2 and postgresql - Part 2</title>
