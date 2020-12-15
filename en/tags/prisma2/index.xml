@@ -14,7 +14,7 @@
     <managingEditor>prsjb77@gmail.com (Jungwon Kim)</managingEditor>
     <webMaster>prsjb77@gmail.com (Jungwon Kim)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 28 Nov 2020 21:07:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 13:52:26 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://jungwone.github.io/en/tags/prisma2/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,44 @@
     
     
 
+      
+      <item>
+        <title>Prisma Migrate Error</title>
+        <link>https://jungwone.github.io/en/posts/prisma-migrate-error/</link>
+        <pubDate>Tue, 15 Dec 2020 13:52:26 +0900</pubDate>
+        <author>prsjb77@gmail.com (Jungwon Kim)</author>
+        <atom:modified>Tue, 15 Dec 2020 13:52:26 +0900</atom:modified>
+        <guid>https://jungwone.github.io/en/posts/prisma-migrate-error/</guid>
+        <description>Migrate error &amp;hellip; 다음에 이 에러가 다시 발생했을 때를 위하여 남겨둔다. 몇일 전 드디어 prisma에서 exprerimental 버전이 아닌 Preview version 을 발표한다고 메일이 왔다. 내가 실수했다. 내가 진</description>
+        
+        <dc:creator>Jungwon Kim</dc:creator>
+        <media:content url="https://jungwone.github.iohttps://res.cloudinary.com/djc1ez16q/image/upload/v1608008453/blog/posts/prisma-migrate-error_rxycze.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>prisma2</category>
+            
+          
+            
+              <category>error</category>
+            
+          
+        
+        
+          
+            
+              <category>error-log</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Project setup with prisma2 and postgresql - Part 3</title>
