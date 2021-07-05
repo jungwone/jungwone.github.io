@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[682],{5518:function(t,u,e){"use strict";e.r(u);e(7294);var a=e(4709),l=e(3751),n=e(3431);u.default=function(){return(0,n.tZ)(a.Z,null,(0,n.tZ)(l.Z,{title:"About"}),(0,n.tZ)("h1",null,"아직 준비중입니다~"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-e6085a674ce3a1bdabf2.js.map
